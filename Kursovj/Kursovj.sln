@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kursovj", "Kursovj\Kursovj.vcproj", "{7AA2E878-2A02-44B3-BED6-BCFB72A67BDE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1try", "..\1try\1try\1try.vcproj", "{CEFFA5FD-8E64-4C5F-BF0A-A3E1AD7E1E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA2E878-2A02-44B3-BED6-BCFB72A67BDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AA2E878-2A02-44B3-BED6-BCFB72A67BDE}.Debug|Win32.Build.0 = Debug|Win32
+		{7AA2E878-2A02-44B3-BED6-BCFB72A67BDE}.Release|Win32.ActiveCfg = Release|Win32
+		{7AA2E878-2A02-44B3-BED6-BCFB72A67BDE}.Release|Win32.Build.0 = Release|Win32
+		{CEFFA5FD-8E64-4C5F-BF0A-A3E1AD7E1E3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CEFFA5FD-8E64-4C5F-BF0A-A3E1AD7E1E3D}.Debug|Win32.Build.0 = Debug|Win32
+		{CEFFA5FD-8E64-4C5F-BF0A-A3E1AD7E1E3D}.Release|Win32.ActiveCfg = Release|Win32
+		{CEFFA5FD-8E64-4C5F-BF0A-A3E1AD7E1E3D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
